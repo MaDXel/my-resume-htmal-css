@@ -1,1 +1,1 @@
-# my-resume-htmal-css
+# my-resume-html-css
