@@ -1,0 +1,58 @@
+span {
+    color: midnightblue;
+}
+
+body {
+    font-size: 2rem;
+    background-color: #F7EEDD;
+}
+
+h1 {
+    text-align: center;
+    color: #008DDA;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+h2 {
+    color: #41C9E2;
+}
+
+hr {
+    border-style: dotted none none;
+    width: 20%;
+    border-width: 1rem;
+    color: #ACE2E1;
+    clear: both;
+}
+
+td {
+    text-align: center;
+}
+
+table {
+    width: 70%;
+}
+
+img {
+    width: 60%;
+    float: right;
+    margin: 1rem;
+}
+
+.headerh1 {
+    width: 70%;
+    display: inline-block;
+    float: left;
+
+}
+
+.headerpic {
+    display: inline-block;
+    width: 30%;
+}
+
+.div1 {
+    clear: left;
+}
